@@ -133,7 +133,6 @@
     <ClInclude Include="ItemBase.h" />
     <ClInclude Include="ItemManager.h" />
     <ClInclude Include="JsonParser.h" />
-    <ClInclude Include="PrintHelper.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

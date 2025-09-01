@@ -30,6 +30,5 @@
     <ClInclude Include="ItemManager.h">
       <Filter>Item</Filter>
     </ClInclude>
-    <ClInclude Include="PrintHelper.h" />
   </ItemGroup>
 </Project>
