@@ -1,3 +1,3 @@
 Idx,Name,Type,Value,Effect
 1,회복포션,Consume,50,Heal
-2,마나포션,Consume,30,Refrain
+2,분노의영약,Consume,10,IncreaseAttack
